@@ -10,4 +10,7 @@
 
 </center>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimkolobanov&show_icons=true&theme=radical)
+
 [![Codewars Badge](https://www.codewars.com/users/Vadim%20Kolobanov/badges/large)](https://www.codewars.com/users/Vadim%20Kolobanov)
+![Flutter](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
